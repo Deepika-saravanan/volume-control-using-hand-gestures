@@ -27,9 +27,7 @@ volume-control-using-hand-gestures/
 │
 ├── app.py # Main script
 ├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── LICENSE # License file
-
+└── README.md # Project documentation
 
 ---
 
@@ -39,5 +37,7 @@ volume-control-using-hand-gestures/
 ```bash
 git clone https://github.com/Deepika-saravanan/volume-control-using-hand-gestures.git
 cd volume-control-using-hand-gestures
+
+```
 
 
