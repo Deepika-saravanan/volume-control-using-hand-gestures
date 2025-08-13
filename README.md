@@ -26,9 +26,9 @@ It’s built using **computer vision** to detect hand landmarks and map the dist
 
 volume-control-using-hand-gestures/
 │
-├── app.py # Main script
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── app.py
+├── requirements.txt 
+└── README.md
 
 ---
 
@@ -40,6 +40,7 @@ git clone https://github.com/Deepika-saravanan/volume-control-using-hand-gesture
 cd volume-control-using-hand-gestures
 
 ```
+
 
 
 
