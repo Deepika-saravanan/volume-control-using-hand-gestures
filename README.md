@@ -5,19 +5,6 @@ This project uses **OpenCV**, **Mediapipe**, and **PyCaw** to track your hand ge
 
 ---
 
-## 📜 Table of Contents
-- [📖 Overview](#-overview)
-- [✨ Features](#-features)
-- [📂 Project Structure](#-project-structure)
-- [⚙️ Installation](#️-installation)
-- [🚀 Usage](#-usage)
-- [🖼 Demo](#-demo)
-- [💡 How It Works](#-how-it-works)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
----
-
 ## 📖 Overview
 With the rise of touchless controls, this project offers a fun and practical way to manage your computer volume **without touching your keyboard or mouse**.  
 It’s built using **computer vision** to detect hand landmarks and map the distance between your thumb and index finger to your system volume level.
@@ -52,4 +39,5 @@ volume-control-using-hand-gestures/
 ```bash
 git clone https://github.com/Deepika-saravanan/volume-control-using-hand-gestures.git
 cd volume-control-using-hand-gestures
+
 
