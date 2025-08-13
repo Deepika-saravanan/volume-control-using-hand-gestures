@@ -20,15 +20,6 @@ It’s built using **computer vision** to detect hand landmarks and map the dist
 
 > \*Volume control currently tested on **Windows** using `pycaw`. macOS/Linux users may need alternative audio APIs.
 
----
-
-## 📂 Project Structure
-
-volume-control-using-hand-gestures/
-│
-├── app.py
-├── requirements.txt 
-└── README.md
 
 ---
 
@@ -40,6 +31,7 @@ git clone https://github.com/Deepika-saravanan/volume-control-using-hand-gesture
 cd volume-control-using-hand-gestures
 
 ```
+
 
 
 
