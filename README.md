@@ -1,9 +1,5 @@
 # 🎯 Volume Control Using Hand Gestures
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Deepika-saravanan/volume-control-using-hand-gestures?style=social)](https://github.com/Deepika-saravanan/volume-control-using-hand-gestures/stargazers)
-
 Control your system volume effortlessly **just by moving your fingers**!  
 This project uses **OpenCV**, **Mediapipe**, and **PyCaw** to track your hand gestures via webcam and map them to system volume changes in real time.
 
@@ -56,3 +52,4 @@ volume-control-using-hand-gestures/
 ```bash
 git clone https://github.com/Deepika-saravanan/volume-control-using-hand-gestures.git
 cd volume-control-using-hand-gestures
+
